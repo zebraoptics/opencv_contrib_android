@@ -88,9 +88,9 @@ This SDK was compiled with the following setup. If you want to rebuild from sour
 |-----------|---------|
 | OpenCV | 4.12 |
 | opencv_contrib | 4.12 |
-| Android NDK | `<!-- TODO: fill in -->` |
-| CMake | `<!-- TODO: fill in -->` |
-| Host OS | `<!-- TODO: e.g. macOS 14 / Ubuntu 22.04 -->` |
+| Android NDK | 27.0.12077973 |
+| CMake | 4.2.3 |
+| Host OS | macOS 14 |
 
 ### Build command used
 
